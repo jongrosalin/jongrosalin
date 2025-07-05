@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jongrosalin
 - 👀 I’m interested in full-stack web development using Java Srping Bood and Angular
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me by my email ...
+- 🌱 I’m currently learning Android development
+- 💞️ I’m looking to collaborate on Web/Android development projects
+- 📫 You can reach me by my email jongrosalin2@gmail.com
 
 <!---
 jongrosalin/jongrosalin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
